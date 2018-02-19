@@ -1,0 +1,5 @@
+{
+  "botToken": "",
+  "targetId": 0,
+  "searchPaths": ["/mnt/store", "/mnt/main/public"]
+}
